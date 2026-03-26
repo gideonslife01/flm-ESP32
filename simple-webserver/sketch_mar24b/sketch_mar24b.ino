@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "skyiptime10CD";
-const char* password = "skylife0cd";
+const char* ssid = "yourid";
+const char* password = "yourpassword";
 
 WebServer server(80);
 
